@@ -1,6 +1,6 @@
-# Note-Taker
+## Note-Taker
 
-#Description
+## Description
 
 The motivation behind this project was to help the user be more organized by using our Note Taker app. 
 
